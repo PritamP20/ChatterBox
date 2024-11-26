@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  background-color: #d8b4fe;
+  background-image: url("https://media.idownloadblog.com/wp-content/uploads/2019/06/macOS-Catalina-wallpaper-idownloadblog.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  opacity:inherit;
+}
